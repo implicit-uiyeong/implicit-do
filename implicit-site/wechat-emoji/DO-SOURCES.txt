@@ -1,0 +1,3 @@
+当前剧情表情已统一使用微信PNG资源，资源来源与对应关系见MODERN-SOURCES.json。
+无语使用Duh.png；馋是作者别称，按饥饿样式显示；呲牙/龇牙使用同一张对应微信图。旧GIF仅保留兼容，不再由本作正文引用。
+资源原版权归腾讯；镜像索引：https://github.com/koishijs/QFace 。

@@ -1,0 +1,108 @@
+{
+  "source": "https://github.com/koishijs/QFace",
+  "retrieved": "2026-11-06",
+  "copyright": "Emoji artwork belongs to Tencent; source code license does not transfer artwork ownership.",
+  "note": "馋 is an author alias for the hungry/drooling expression. 阴线 is an author alias for 阴险.",
+  "assets": [
+    {
+      "name": "猪头",
+      "filename": "wx8-62.png",
+      "key": "qqemoji:62",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/62.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "跳跳",
+      "filename": "wx8-92.png",
+      "key": "qqemoji:92",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/92.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "龇牙",
+      "filename": "wx8-13.png",
+      "key": "qqemoji:13",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/13.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "OK",
+      "filename": "wx8-89.png",
+      "key": "qqemoji:89",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/89.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "无语",
+      "filename": "wx8-duh.png",
+      "key": "[Duh]",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/newemoji/Duh.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "馋",
+      "filename": "wx8-24.png",
+      "key": "qqemoji:24",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/24.png",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "name": "抠鼻",
+      "filename": "wx8-41.png",
+      "key": "qqemoji:41",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/41.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "爱心",
+      "filename": "wx8-66.png",
+      "key": "qqemoji:66",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/66.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "色",
+      "filename": "wx8-2.png",
+      "key": "qqemoji:2",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/2.png"
+    },
+    {
+      "name": "阴险",
+      "filename": "wx8-51.png",
+      "key": "qqemoji:51",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/51.png"
+    },
+    {
+      "name": "白眼",
+      "filename": "wx8-22.png",
+      "key": "qqemoji:22",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/22.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "囧",
+      "filename": "wx8-10.png",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/10.png",
+      "key": "qqemoji:10",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "咒骂",
+      "filename": "wx8-31.png",
+      "url": "https://koishi.js.org/QFace/assets/wechat_emoji/qqemoji/31.png",
+      "key": "qqemoji:31",
+      "width": 128,
+      "height": 128
+    }
+  ]
+}
